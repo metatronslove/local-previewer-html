@@ -58,3 +58,11 @@ Bu proje [Özel Lisans] ile lisanslanmıştır. Bağış yapmak için [Bağış 
 ---
 
 **Not:** Bu dosya yerel dosya sistemi API'larını kullanır. Tarayıcı izinlerini yönetmek için ayarlarınızı kontrol edin.
+
+## ☕ Destek Olun / Support
+
+Projemi beğendiyseniz, bana bir kahve ısmarlayarak destek olabilirsiniz!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/metatronslove)
+
+Teşekkürler! 🙏
